@@ -1,17 +1,42 @@
+#links{
+	background-color: #BCF5A9;
+	position: fixed;
+	top:-5px;
+	left:5px;
+	width:98px;
+	height:50000px;
+	}
+
+#xhtml {
+	padding: 110px 0px 0px 6px;
+	}
+
+#css {
+	padding: 20px 0px 0px 6px;
+	}
+
+h1 {
+	margin-left:100px;
+	}
+
 table {
-	border: 1px solid black;
+	border: 0.01em solid black;
+	border-radius: 3px;
+	margin-top: 48px;
+	margin-left:100px;
 	}
 	
 .grau {
-	background-color: #cccccc;
+	background-color: #E6E6E6;
 	}
 	
 .nr  {
 	font-weight: bold;
-	font-size: 1.1em;
+	font-size: 0.9em;
 	}
 	
 .element
 	{
 	font-weight: bold;
+	color: #DF0F3F
 	}
