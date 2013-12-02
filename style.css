@@ -1,33 +1,33 @@
 #links{
-	background-color: #BCF5A9;
+	background-color: #CDF93E;
 	position: fixed;
 	top:-5px;
-	left:5px;
-	width:98px;
+	left:-5px;
+	width:108px;
 	height:50000px;
 	}
 
 #xhtml {
-	padding: 110px 0px 0px 6px;
+	padding: 110px 0px 0px 16px;
 	}
 
 #css {
-	padding: 20px 0px 0px 6px;
+	padding: 20px 0px 0px 16px;
 	}
 
 h1 {
 	margin-left:100px;
+	background-color: #BAF300;
 	}
 
 table {
 	border: 0.01em solid black;
-	border-radius: 3px;
 	margin-top: 48px;
 	margin-left:100px;
 	}
 	
 .grau {
-	background-color: #E6E6E6;
+	background-color: #D9F970;
 	}
 	
 .nr  {
@@ -39,4 +39,8 @@ table {
 	{
 	font-weight: bold;
 	color: #DF0F3F
+	}
+
+.bilder {
+	align:center;
 	}
